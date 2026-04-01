@@ -111,6 +111,6 @@ Most content can be modified in the component files inside the `components/secti
 
 ---
 
-## Author
 
-Om Pandey
+
+
